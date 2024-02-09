@@ -55,7 +55,8 @@ header h1{
   width: 28px;
   height: 28px;
 
-  background: #475569;
+  background-color: #a3e635;
+  color: #475569;
   font-size: 12px;
   margin-right: 8px;
   border-radius: 50%;
